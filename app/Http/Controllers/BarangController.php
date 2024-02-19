@@ -9,7 +9,7 @@ use Yajra\DataTables\DataTables;
 
 class BarangController extends Controller
 {
-    //
+    //property
     protected $id_barang;
     protected $nama_barang;
     protected $kode;
